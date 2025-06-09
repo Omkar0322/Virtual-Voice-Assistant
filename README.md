@@ -46,6 +46,10 @@
 
 
 
+📂 File Organization Note
+
+> All resource files (images, icons, etc.) are stored in the root directory for simplicity and ease of access in this project.
+
 
 ---
 
